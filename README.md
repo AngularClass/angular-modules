@@ -16,6 +16,7 @@ Angular 2 modules by @AngularClass
 
 ## Tooling
 * @angularclass/cli [npm](https://www.npmjs.com/package/@angularclass/cli) / [github](https://github.com/AngularClass/cli)
+* @angularclass/webpack-toolkit [npm](https://www.npmjs.com/package/@angularclass/webpack-toolkit) / [github](https://github.com/AngularClass/webpack-toolkit)
 
 ## Debugging
 * @angularclass/debug-menu [npm](https://www.npmjs.com/package/@angularclass/debug-menu) / [github](https://github.com/AngularClass/debug-menu)
