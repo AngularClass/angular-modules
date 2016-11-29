@@ -11,6 +11,7 @@ Angular 2 modules by @AngularClass
 
 
 ## Services
+* @angularclass/bootloader [npm](https://www.npmjs.com/package/@angularclass/bootloader) / [github](https://github.com/AngularClass/bootloader)
 * @angularclass/request-idle-callback [npm](https://www.npmjs.com/package/@angularclass/request-idle-callback) / [github](https://github.com/AngularClass/request-idle-callback)
 * @angularclass/idle-preload [npm](https://www.npmjs.com/package/@angularclass/idle-preload) / [github](https://github.com/AngularClass/idle-preload)
 
