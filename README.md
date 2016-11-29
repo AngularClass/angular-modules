@@ -12,6 +12,8 @@ Angular 2 modules by @AngularClass
 
 ## Services
 * @angularclass/request-idle-callback [npm](https://www.npmjs.com/package/@angularclass/request-idle-callback) / [github](https://github.com/AngularClass/request-idle-callback)
+* @angularclass/idle-preload [npm](https://www.npmjs.com/package/@angularclass/idle-preload) / [github](https://github.com/AngularClass/idle-preload)
+
 
 ## Components
 * @angularclass/match-control [npm](https://www.npmjs.com/package/@angularclass/match-control) / [github](https://github.com/AngularClass/match-control)
