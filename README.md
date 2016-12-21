@@ -5,8 +5,8 @@
 </p>
 
 ---
-# angular2-modules
-Angular 2 modules by @AngularClass
+# AngularClass Angular Modules
+Angular 2 and Angular 4 modules by @AngularClass
 
 
 
